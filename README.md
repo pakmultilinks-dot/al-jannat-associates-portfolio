@@ -12,4 +12,4 @@ Official portfolio website of Al Jannat Associates, a Lahore-based real estate a
 ## Tech
 Single self-contained static HTML file (index.html). No build step — deploy as-is on any static host.
 ## Live site
-<fill in the Vercel URL after deployment>
+https://al-jannat-associates-portfolio.vercel.app
